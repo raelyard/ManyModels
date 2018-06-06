@@ -11,13 +11,12 @@ dave@raelyard.com
 https://github.com/raelyard/ManyModels
 
 
+#### How Humans Connect
 
-#### Slide 0
+![Where Image?](images/cain-abel.jpg)
 
-Some Content
-
-![Where Image?](images/developeronfire.png)
-
+Note:
+Humans learn best from stories
 
 
 #### Split Your Soul to Model Your Domain
