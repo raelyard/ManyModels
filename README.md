@@ -12,3 +12,4 @@ Resources:
 - [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 - [Eric Evans on Developer On Fire](http://developeronfire.com/podcast/episode-290-eric-evans-tackling-complexity)
 - [Fred George on Developer On Fire](http://developeronfire.com/podcast/episode-279-fred-george-making-sure-the-right-decisions-are-made)
+- [Dave's Blog Post on "Favorite" Podcast Episodes](http://developeronfire.com/blog/developer-on-fire-episodes)

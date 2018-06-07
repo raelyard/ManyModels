@@ -15,13 +15,13 @@ https://github.com/raelyard/ManyModels
 
 ![Where Image?](images/experiment.jpg)
 
+Note:
+There is much to learn from the wisdom of the ancients. Those lessons are not presented as nonfiction tomes, though. Humans learn best from stories.
+
 
 ### How Humans Connect
 
 ![Where Image?](images/cain-abel.jpg)
-
-Note:
-Humans learn best from stories
 
 
 ### Coding Horror Wisdom
@@ -127,6 +127,16 @@ Service-Orientation, Domain-Driven Design, Microservices, Buzz Words, ...
 
 Note:
 Udi Dahan - A service is the technical authority for a business capability.
+
+
+#### Immortality
+
+Service-Orientation, Domain-Driven Design, Microservices, Buzz Words, ...
+
+![Where Image?](images/whitby-abbey.jpg)
+
+Note:
+Though taking a decompositional approach to modeling your domain as subdomains may not yield immortality, it will reduce your vulnerability.
 
 
 ### Split Your Soul to Model Your Domain
